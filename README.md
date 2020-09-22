@@ -5,6 +5,9 @@ Please download the .html and .ipynb file for review the code.
 
 
 Dependences:
+
 PyTorch(=1.6.0)
+
 torchvision
+
 OpenCV for Python
