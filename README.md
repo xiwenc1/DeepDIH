@@ -7,8 +7,8 @@ Please download the .html and .ipynb file for review the code.
 
 Dependences:
 
-PyTorch(=1.6.0)
+`PyTorch(=1.6.0)`
 
-torchvision
+`torchvision`
 
-OpenCV for Python
+`OpenCV for Python`
