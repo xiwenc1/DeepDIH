@@ -1,5 +1,6 @@
 # DeepDIH
-The repo shows the corresponding codes of the paper: https://arxiv.org/abs/2004.12231
+The repo shows the corresponding codes of the paper: 
+[Deep DIH : Statistically Inferred Reconstruction of Digital In-Line Holography by Deep Learning](https://arxiv.org/abs/2004.12231)
 
 Please download the .html and .ipynb file for review the code.
 
