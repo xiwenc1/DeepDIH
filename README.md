@@ -5,15 +5,15 @@ The repo shows the corresponding codes of the paper:
 Please download the .html and .ipynb file for review the code.
 
 
-Dependences:
-
-PyTorch(=1.6.0) install:
+## Requirement:
+- Python 3
+- PyTorch(=1.6.0) install:
 
 `conda install pytorch torchvision cudatoolkit=10.2 -c pytorch`(anaconda)
 
 `pip install torch===1.6.0 torchvision===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html`
 
-OpenCV for Python install:
+- OpenCV for Python install:
 
 `pip install opencv-contrib-python`
 
@@ -21,3 +21,12 @@ For more information, check:
 - https://pytorch.org/
 - For opencv, lease go to https://pypi.org/project/opencv-python/
 
+**If you failed to install the dependencies, please downlown the `.html` files to check the results.**
+
+## Installation
+1.Clone this repository.
+
+`git clone https://github.com/XiwenChen-NAU/DeepDIH.git`
+
+2. run
+`python main.py`
