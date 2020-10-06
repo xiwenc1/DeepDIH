@@ -6,6 +6,7 @@ In this paper, we propose a novel DL method that takes advantages of the main ch
 
 If you have any question, please contact the author: hl459@nau.edu
 ## File list:
+You can also review the existed rusults on .html file or .inpy file 
 - 
 -
 -
