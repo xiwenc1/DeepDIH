@@ -6,6 +6,7 @@ Please download the .html and .ipynb file for review the code.
 
 
 ## Requirement:
+- GPU memory > 8 GB
 - Python 3
 - PyTorch(=1.6.0) install:
 
