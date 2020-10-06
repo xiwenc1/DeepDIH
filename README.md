@@ -9,7 +9,7 @@ Dependences:
 
 PyTorch(=1.6.0) install:
 
-`conda install pytorch torchvision cudatoolkit=10.2 -c pytorch`
+`conda install pytorch torchvision cudatoolkit=10.2 -c pytorch`(anaconda)
 
 `pip install torch===1.6.0 torchvision===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html`
 
