@@ -7,13 +7,17 @@ Please download the .html and .ipynb file for review the code.
 
 Dependences:
 
-`PyTorch(=1.6.0)`
+PyTorch(=1.6.0) install:
 
-`torchvision`
+`conda install pytorch torchvision cudatoolkit=10.2 -c pytorch`
 
-`OpenCV for Python`
+`pip install torch===1.6.0 torchvision===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html`
 
+OpenCV for Python install:
 
-For install pytorch, please go to https://pytorch.org/
+`pip install opencv-contrib-python`
 
-For opencv, lease go to https://pypi.org/project/opencv-python/
+For more information, check:
+- https://pytorch.org/
+- For opencv, lease go to https://pypi.org/project/opencv-python/
+
