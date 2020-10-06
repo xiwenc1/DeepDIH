@@ -25,9 +25,7 @@ For more information, check:
 **If you failed to install the dependencies, please downlown the `.html` files to check the results.**
 
 ## Installation
-1.Clone this repository.
-
+- Clone this repository.
 `git clone https://github.com/XiwenChen-NAU/DeepDIH.git`
-
-2. run
+- run
 `python main.py`
