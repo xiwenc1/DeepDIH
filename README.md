@@ -12,3 +12,8 @@ Dependences:
 `torchvision`
 
 `OpenCV for Python`
+
+
+For install pytorch, please go to https://pytorch.org/
+
+For opencv, lease go to https://pypi.org/project/opencv-python/
