@@ -34,7 +34,7 @@ For more information, check:
 
 ## Installation
 - Clone this repository.
-`git clone https://github.com/XiwenChen-NAU/DeepDIH.git`
+`git lfs clone https://github.com/XiwenChen-NAU/DeepDIH.git`
 - run
 `python main.py`
 
