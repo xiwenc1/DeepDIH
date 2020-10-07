@@ -23,6 +23,9 @@ You can also review the existed rusults on .html file or .ipynb file
 
 `pip install opencv-contrib-python`
 
+- torchsummary
+`pip install torchsummary`
+
 For more information, check:
 - https://pytorch.org/
 - https://pypi.org/project/opencv-python/
