@@ -36,13 +36,10 @@ For more information, check:
 `python main.py`
 
 ## Optical paras (pre-defined in `main.py`):
-- Spherical light function Nx, Ny : hologram size z : object-sensor distance wavelength: wavelength of light deltaX, deltaY : sensor size
-`   Nx = 1000
-    Ny = 1000
-    z = 857
-    wavelength = 0.635
-    deltaX = 1.67
-    deltaY = 1.67`
+- Spherical light function Nx, Ny :`Nx = 1000 Ny = 1000` 
+- hologram size z:`z = 857`
+- object-sensor distance wavelength:`wavelength = 0.635`
+- wavelength of light deltaX, deltaY : `deltaX = 1.67 deltaY = 1.67`
 - If you want to setup your paras, go `main.py` and modify them in:
 `main(Nx = *, Ny = *, z = *, wavelength = *, deltaX = *, deltaY = *)`
 then run it.
