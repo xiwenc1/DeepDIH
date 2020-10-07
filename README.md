@@ -29,6 +29,7 @@ You can also review the existed rusults on .html file or .ipynb file
 `pip install torchsummary`
 
 - [git large file storage](https://git-lfs.github.com/)
+
 For more information, check:
 - https://pytorch.org/
 - https://pypi.org/project/opencv-python/
