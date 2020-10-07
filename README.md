@@ -29,7 +29,7 @@ You can also review the existed rusults on .html file or .ipynb file
 For more information, check:
 - https://pytorch.org/
 - https://pypi.org/project/opencv-python/
-
+- https://pypi.org/project/torchsummary/
 **If you failed to install the dependencies, please downlown the `.html` files to check the results.**
 
 ## Installation
