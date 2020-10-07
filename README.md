@@ -56,3 +56,5 @@ We implement our model using the PyTorch Framework in a GPU workstation with an 
 ## Results
 ![image](https://github.com/XiwenChen-NAU/DeepDIH/blob/master/Figures/fig12.jpg)
 Optical Experimental hologram of USAF Resolution Chart and reconstructions. (A) The captured hologram. (B) Amplitude reconstruction with our method. (C) The reconstructed quantitative phase with our method.
+
+The HTML and Notebook could be also found in https://drive.google.com/drive/folders/13o86AYWUPvxQxanq4cHxIiDjW22vOd75?usp=sharing
