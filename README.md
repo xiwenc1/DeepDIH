@@ -37,9 +37,10 @@ For more information, check:
 ## Installation
 - Clone this repository.
 `git lfs clone https://github.com/XiwenChen-NAU/DeepDIH.git`
+- `cd DeepDIH`
 - run
 `python main.py`
-
+- The ouputs (amplitude and phase) in the subfolder `./results`
 ## Optical paras (pre-defined in `main.py`):
 - Spherical light function Nx, Ny :`Nx = 1000 Ny = 1000` 
 - hologram size z:`z = 857`
