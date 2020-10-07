@@ -58,4 +58,4 @@ Deep convolutional autoencoder with “hourglass” architecture. Batch normaliz
 We implement our model using the PyTorch Framework in a GPU workstation with an NVIDIA Quadro RTX5000 graphics card. Adam optimizer is adopted with a fixed learning rate of 0.0005 for simulation-based experiments and 0.01 for optical experiments. We train the network with an angular spectrum propagation (ASP) back-propagation reconstruction as input for 1500 to 3500 iterations for simulated holograms, and 2500 to 5000 iterations for real-world holograms, respectively.
 ## Results
 ![image](https://github.com/XiwenChen-NAU/DeepDIH/blob/master/Figures/fig12.jpg)
-
+Optical Experimental hologram of USAF Resolution Chart and reconstructions. (A) The captured hologram. (B) Amplitude reconstruction with our method. (C) The reconstructed quantitative phase with our method.
