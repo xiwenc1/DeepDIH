@@ -6,10 +6,10 @@ In this paper, we propose a novel DL method that takes advantages of the main ch
 
 If you have any question, please contact the author: hl459@nau.edu
 ## File list:
-You can also review the existed rusults on .html file or .inpy file 
-- 
--
--
+You can also review the existed rusults on .html file or .ipynb file 
+- **Complex_conv.html**:
+- **DeepDIH.html** / **DeepDIH.ipynb** 
+- **main.py**
 ## Requirement:
 - GPU memory > 8 GB
 - Python 3
@@ -36,6 +36,7 @@ For more information, check:
 `python main.py`
 
 ## Optical paras (pre-defined in `main.py`):
+- Spherical light function Nx, Ny : hologram size z : object-sensor distance wavelength: wavelength of light deltaX, deltaY : sensor size
 `   Nx = 1000
     Ny = 1000
     z = 857
